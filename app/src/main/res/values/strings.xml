@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RestauranApp</string>
+    <string name="invalid_name">please Fill valid Name</string>
+    <string name="invalid_mobile">please Enter a valid Number</string>
+    <string name="invalid_email">please Enter a valid Email</string>
+    <string name="invalid_password">Please enter six digit Password</string>
+</resources>
